@@ -1,5 +1,7 @@
 # MIX Flip 2 外屏 AOD 倒计时
 
+**仓库**：https://github.com/S1xycat/mixflip2-aod-countdown
+
 在小米 MIX Flip 2（bixi / HyperOS 3 / Android 16）折叠状态下，让外屏在「倒计时」场景呈现类似 AOD 的低功耗息屏效果——不显示多余内容，只显示中间的倒计时圆盘。
 
 ## 背景
@@ -41,7 +43,7 @@ mixflip2-aod-countdown/
 
 | 阶段 | 内容 | 状态 |
 |---|---|---|
-| Stage 1 | 外屏 AOD 环境调查 | ✅ 本地完成，**待推送** |
+| Stage 1 | 外屏 AOD 环境调查 | ✅ 已完成并推送 |
 | Stage 2 | 待定 | ⏸ 等待指令 |
 
 ## 参考项目

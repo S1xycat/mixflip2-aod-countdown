@@ -581,13 +581,13 @@ fatal: unable to read config file '/root/.gitconfig'
 
 | 项 | 值 |
 |---|---|
-| 仓库 | `mixflip2-aod-countdown`（**GitHub 上尚未创建**） |
+| 仓库 | https://github.com/S1xycat/mixflip2-aod-countdown |
 | 分支 | `main` |
-| 最新 Commit SHA | `2ceb6fa0ca93c38a7c38fa6703863640251dd819`（本地提交成功） |
+| 最新 Commit SHA | `44290a38a7e34c122bb9af8fcb184039bae7fc6d`（远端已确认一致） |
 | 本阶段新增文件 | 见下 |
-| 是否推送成功 | ❌ **否** — 认证缺失（详见 G.1） |
+| 是否推送成功 | ✅ **是** — `git ls-remote` 与远端 API 双重验证通过 |
 
-### 本地文件清单（待推送）
+### 仓库文件清单（已推送）
 
 ```
 mixflip2-aod-countdown/
@@ -621,18 +621,30 @@ mixflip2-aod-countdown/
 
 ### 推送阻塞说明
 
-**本阶段成果未同步到 GitHub。** 原因是本机无任何认证凭据，且仓库不存在。
+**本阶段成果已成功同步到 GitHub。**
 
-按规范要求「如果 GitHub 推送失败，不得声称阶段已经同步完成」——此处如实声明：**未同步**。
+推送过程记录：
 
-待用户提供认证后，将执行：
+1. 首次尝试失败：`fatal: could not read Username for 'https://github.com'`（无认证凭据）
+2. 用户提供 Fine-grained PAT（账号 `S1xycat`）
+3. 首次 API 创建仓库失败：`Resource not accessible by personal access token`（token 无 create repo 权限）
+4. 用户手动创建仓库 `S1xycat/mixflip2-aod-countdown`
+5. 推送成功：`* [new branch] main -> main`
+
+**远端验证**：
 
 ```bash
-git add .
-git commit -m "stage-01: MIX Flip 2 外屏 AOD 环境调查完成"
-git remote add origin <repo-url>
-git push -u origin main
+$ git ls-remote origin
+44290a38a7e34c122bb9af8fcb184039bae7fc6d	HEAD
+44290a38a7e34c122bb9af8fcb184039bae7fc6d	refs/heads/main
+
+$ git rev-parse HEAD   # 本地
+44290a38a7e34c122bb9af8fcb184039bae7fc6d
 ```
+
+本地与远端 SHA 完全一致 ✅
+
+**安全处理**：推送时使用 `https://<user>:<token>@...` 形式，推送完成后立即将 remote URL 还原为不带凭据的形式，并验证 `.git/config` 与仓库文件内均无 token 残留。
 
 ---
 
@@ -642,4 +654,4 @@ git push -u origin main
 
 **但有一个关键问题仍未解答**：AOD 的内容是否可被替换/追加。这个问题的答案（在 `MiuiSystemUI.apk` 与 `MIUIAod.apk` 的反编译结果里）将直接决定项目走哪条技术路线。
 
-**本阶段不擅自进入下一阶段。等待指令。**
+***（本阶段已推送。不擅自进入下一阶段，等待指令。）***

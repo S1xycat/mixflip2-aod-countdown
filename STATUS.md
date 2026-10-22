@@ -1,8 +1,9 @@
 # 项目状态
 
 **最后更新**：2026-10-22
-**当前阶段**：Stage 1 — 外屏 AOD 环境调查（✅ 本地完成 / ❌ 未推送）
-**最新 Commit SHA**：`2ceb6fa0ca93c38a7c38fa6703863640251dd819`（仅本地，未推送）
+**当前阶段**：Stage 1 — 外屏 AOD 环境调查（✅ 已完成并推送）
+**最新 Commit SHA**：`44290a38a7e34c122bb9af8fcb184039bae7fc6d`（已推送）
+**仓库**：https://github.com/S1xycat/mixflip2-aod-countdown
 **分支**：`main`
 
 ---
@@ -60,7 +61,7 @@
 
 ## 阻塞项
 
-- **GitHub 推送未完成**：本机无 SSH 密钥、无 gh CLI、无 Token、无 credential helper。仓库 `mixflip2-aod-countdown` 在 GitHub 上不存在（API 404）。需要用户手动创建空仓库并提供认证方式。
+- ~~GitHub 推送未完成~~ → **已解决**：仓库 https://github.com/S1xycat/mixflip2-aod-countdown 已创建，Stage 1 已推送成功。
 - **开发工具链缺失**：Gradle、Android SDK、jadx 均未安装。Stage 2 若需编译或反编译，必须先搭建。
 
 ---
