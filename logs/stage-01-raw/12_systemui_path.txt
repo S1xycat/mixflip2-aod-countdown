@@ -1,0 +1,3 @@
+package:/system_ext/priv-app/MiuiSystemUI/MiuiSystemUI.apk
+
+[EXIT=0]

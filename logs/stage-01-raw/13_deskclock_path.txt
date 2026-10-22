@@ -1,0 +1,3 @@
+package:/product/data-app/MIUIDeskClock/MIUIDeskClock.apk
+
+[EXIT=0]

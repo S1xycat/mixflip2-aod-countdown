@@ -1,0 +1,39 @@
+# 构建产物
+*.apk
+*.jar
+*.dex
+*.odex
+*.vdex
+*.art
+build/
+.gradle/
+*.iml
+
+# 工具链
+local.properties
+.gradle-cache/
+
+# 日志与临时文件
+*.log
+logs/*.tmp
+*.hprof
+*.trace
+
+# 系统文件副本（不可再分发）
+vendor-apks/
+system-dumps/full/
+
+# 凭据（绝对禁止）
+*.pem
+*.key
+*.keystore
+*.jks
+.env
+secrets.properties
+
+# 编辑器与系统
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp

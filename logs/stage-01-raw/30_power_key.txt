@@ -1,0 +1,17 @@
+  mWakefulness=Awake
+  mWakefulnessChanging=false
+  mIsPowered=true
+  mHoldingDisplaySuspendBlocker=true
+  mDozeAfterScreenOff=true
+  mDozeScreenStateOverrideFromDreamManager=1
+  mDozeScreenBrightnessOverrideFromDreamManager=255
+  mUseNormalBrightnessForDoze=false
+  NonDoze NonIntr:    142m    227mAh(  5%)     95.5mAh/h          0m      0mAh(  0%)      0.0mAh/h
+    enable_quick_doze=true
+    enable_quick_doze=true
+    enable_quick_doze=false
+    enable_quick_doze=false
+    enable_quick_doze=false
+  mIsPowered=true
+Display Group User Activity:
+  Wakefulness Session Power Group powerGroupId: 0

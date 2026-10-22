@@ -1,0 +1,3 @@
+package:/product/priv-app/MIUIAod/MIUIAod.apk
+
+[EXIT=0]

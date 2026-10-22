@@ -1,0 +1,3 @@
+setDozeScreenState
+
+[EXIT=0]

@@ -1,0 +1,3 @@
+package:/product/priv-app/FlipHome/FlipHome.apk
+
+[EXIT=0]

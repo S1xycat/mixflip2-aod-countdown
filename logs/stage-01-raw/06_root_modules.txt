@@ -1,0 +1,8 @@
+AdGuardHome
+device_faker
+h_reboot
+playintegrityfix
+zygisk_lsposed
+zygisksu
+
+[EXIT=0]

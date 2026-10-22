@@ -1,0 +1,564 @@
+{
+  "sha": "c6e8145923bfa4840cd204a9853aa808739bf209",
+  "url": "https://api.github.com/repos/237389749/FlipOuterUnlock_262/git/trees/c6e8145923bfa4840cd204a9853aa808739bf209",
+  "tree": [
+    {
+      "path": ".github",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "1c791c77c5ddc058de17622131e931b387ac21dc",
+      "url": "https://api.github.com/repos/237389749/FlipOuterUnlock_262/git/trees/1c791c77c5ddc058de17622131e931b387ac21dc"
+    },
+    {
+      "path": ".github/workflows",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "456aeba8414376d6beb000a000e20a05418f39d4",
+      "url": "https://api.github.com/repos/237389749/FlipOuterUnlock_262/git/trees/456aeba8414376d6beb000a000e20a05418f39d4"
+    },
+    {
+      "path": ".github/workflows/ci_build.yml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "45bfdbd9dfca767a65c3393b27cee002e942b4ab",
+      "size": 3739,
+      "url": "https://api.github.com/repos/237389749/FlipOuterUnlock_262/git/blobs/45bfdbd9dfca767a65c3393b27cee002e942b4ab"
+    },
+    {
+      "path": ".gitignore",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "80eb05f41caad69736155bac85592036807e02e0",
+      "size": 144,
+      "url": "https://api.github.com/repos/237389749/FlipOuterUnlock_262/git/blobs/80eb05f41caad69736155bac85592036807e02e0"
+    },
+    {
+      "path": "COUPLING_REVIEW.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d4487e6fb9cc88be40d669d956fd75efc7763d9b",
+      "size": 14645,
+      "url": "https://api.github.com/repos/237389749/FlipOuterUnlock_262/git/blobs/d4487e6fb9cc88be40d669d956fd75efc7763d9b"
+    },
+    {
+      "path": "PRECISION_CUT_ANALYSIS.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "c81d9d7d79591a01147d40c310c4364f0009ec03",
+      "size": 26848,
+      "url": "https://api.github.com/repos/237389749/FlipOuterUnlock_262/git/blobs/c81d9d7d79591a01147d40c310c4364f0009ec03"
+    },
+    {
+      "path": "README.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "c7cf47b04b993b750072177163b3c71a2d8e15ae",
+      "size": 22386,
+      "url": "https://api.github.com/repos/237389749/FlipOuterUnlock_262/git/blobs/c7cf47b04b993b750072177163b3c71a2d8e15ae"
+    },
+    {
+      "path": "REFACTOR_PLAN.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "6a26df821f3f3a0bdc4d40a2ca8ce7215677b917",
+      "size": 13145,
+      "url": "https://api.github.com/repos/237389749/FlipOuterUnlock_262/git/blobs/6a26df821f3f3a0bdc4d40a2ca8ce7215677b917"
+    },
+    {
+      "path": "app",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "f78873a815cbdabb78d20301e85f61654c2b910a",
+      "url": "https://api.github.com/repos/237389749/FlipOuterUnlock_262/git/trees/f78873a815cbdabb78d20301e85f61654c2b910a"
+    },
+    {
+      "path": "app/build.gradle.kts",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "99f4152925adc8655db93b3fe719de5a9869ffa6",
+      "size": 1056,
+      "url": "https://api.github.com/repos/237389749/FlipOuterUnlock_262/git/blobs/99f4152925adc8655db93b3fe719de5a9869ffa6"
+    },
+    {
+      "path": "app/proguard-rules.pro",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "847d7f7ef8d93ff58ce9b3d40d5346a24540651b",
+      "size": 704,
+      "url": "https://api.github.com/repos/237389749/FlipOuterUnlock_262/git/blobs/847d7f7ef8d93ff58ce9b3d40d5346a24540651b"
+    },
+    {
+      "path": "app/src",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "bfea9a63d77b8f167492ea2893485578210f7d46",
+      "url": "https://api.github.com/repos/237389749/FlipOuterUnlock_262/git/trees/bfea9a63d77b8f167492ea2893485578210f7d46"
+    },
+    {
+      "path": "app/src/main",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "b06d8c3ab48d96f538c776902b47a4733af20d82",
+      "url": "https://api.github.com/repos/237389749/FlipOuterUnlock_262/git/trees/b06d8c3ab48d96f538c776902b47a4733af20d82"
+    },
+    {
+      "path": "app/src/main/AndroidManifest.xml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "14ad93ec1f7672f4e91d2324f2095510e57ffa61",
+      "size": 317,
+      "url": "https://api.github.com/repos/237389749/FlipOuterUnlock_262/git/blobs/14ad93ec1f7672f4e91d2324f2095510e57ffa61"
+    },
+    {
+      "path": "app/src/main/java",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "ae4a0cd004392575a878abf0896682bd3950cb94",
+      "url": "https://api.github.com/repos/237389749/FlipOuterUnlock_262/git/trees/ae4a0cd004392575a878abf0896682bd3950cb94"
+    },
+    {
+      "path": "app/src/main/java/com",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "3e9b8ffa9e8583e55ff3413cdec5ee1df5a4fe3f",
+      "url": "https://api.github.com/repos/237389749/FlipOuterUnlock_262/git/trees/3e9b8ffa9e8583e55ff3413cdec5ee1df5a4fe3f"
+    },
+    {
+      "path": "app/src/main/java/com/example",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "33df561f09a73c1a42e5159e1cd91bf2901e5e2c",
+      "url": "https://api.github.com/repos/237389749/FlipOuterUnlock_262/git/trees/33df561f09a73c1a42e5159e1cd91bf2901e5e2c"
+    },
+    {
+      "path": "app/src/main/java/com/example/flipunlock",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "9e0446aa23b8e2a4db0f85a2a8254be60ad66403",
+      "url": "https://api.github.com/repos/237389749/FlipOuterUnlock_262/git/trees/9e0446aa23b8e2a4db0f85a2a8254be60ad66403"
+    },
+    {
+      "path": "app/src/main/java/com/example/flipunlock/Main.kt",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ad27f05a9c1369fff2084780fd38de18f9ac62bf",
+      "size": 5160,
+      "url": "https://api.github.com/repos/237389749/FlipOuterUnlock_262/git/blobs/ad27f05a9c1369fff2084780fd38de18f9ac62bf"
+    },
+    {
+      "path": "app/src/main/java/com/example/flipunlock/hook",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "b938b6fb181bd9fde63cd70b80c10a87c4af3ad2",
+      "url": "https://api.github.com/repos/237389749/FlipOuterUnlock_262/git/trees/b938b6fb181bd9fde63cd70b80c10a87c4af3ad2"
+    },
+    {
+      "path": "app/src/main/java/com/example/flipunlock/hook/BaseHook.kt",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e51cff38797d858de87d2264ccc20e731fafe5db",
+      "size": 430,
+      "url": "https://api.github.com/repos/237389749/FlipOuterUnlock_262/git/blobs/e51cff38797d858de87d2264ccc20e731fafe5db"
+    },
+    {
+      "path": "app/src/main/java/com/example/flipunlock/hook/aod",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "7a923b7996761c5505ac1394916817cea72d36b6",
+      "url": "https://api.github.com/repos/237389749/FlipOuterUnlock_262/git/trees/7a923b7996761c5505ac1394916817cea72d36b6"
+    },
+    {
+      "path": "app/src/main/java/com/example/flipunlock/hook/aod/AodHook.kt",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "997d8cf04f793cb162e5e04a2d3b4da5ef0c48c7",
+      "size": 21475,
+      "url": "https://api.github.com/repos/237389749/FlipOuterUnlock_262/git/blobs/997d8cf04f793cb162e5e04a2d3b4da5ef0c48c7"
+    },
+    {
+      "path": "app/src/main/java/com/example/flipunlock/hook/cutout",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "b2c89878ca4423094e56d21231d3fd2a748b6a35",
+      "url": "https://api.github.com/repos/237389749/FlipOuterUnlock_262/git/trees/b2c89878ca4423094e56d21231d3fd2a748b6a35"
+    },
+    {
+      "path": "app/src/main/java/com/example/flipunlock/hook/cutout/CutoutHook.kt",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "7b027d47565326193ee653c8267336a1d08f9107",
+      "size": 1938,
+      "url": "https://api.github.com/repos/237389749/FlipOuterUnlock_262/git/blobs/7b027d47565326193ee653c8267336a1d08f9107"
+    },
+    {
+      "path": "app/src/main/java/com/example/flipunlock/hook/identity",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "572fd4bdd4696769c10994a0b6d16ba3c7e30513",
+      "url": "https://api.github.com/repos/237389749/FlipOuterUnlock_262/git/trees/572fd4bdd4696769c10994a0b6d16ba3c7e30513"
+    },
+    {
+      "path": "app/src/main/java/com/example/flipunlock/hook/identity/CutoutAlwaysHook.kt",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "cfa9ed916cb6c77c4cf81b96a1b60d952b466d47",
+      "size": 5566,
+      "url": "https://api.github.com/repos/237389749/FlipOuterUnlock_262/git/blobs/cfa9ed916cb6c77c4cf81b96a1b60d952b466d47"
+    },
+    {
+      "path": "app/src/main/java/com/example/flipunlock/hook/identity/DeviceIdentityHook.kt",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ff747a7f60fc4d8c575b7853ae2f6a7e743d74e7",
+      "size": 7432,
+      "url": "https://api.github.com/repos/237389749/FlipOuterUnlock_262/git/blobs/ff747a7f60fc4d8c575b7853ae2f6a7e743d74e7"
+    },
+    {
+      "path": "app/src/main/java/com/example/flipunlock/hook/miuihome",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "ec8fb31c7e6b5da3d396819f1ffbd1c1f59d00cb",
+      "url": "https://api.github.com/repos/237389749/FlipOuterUnlock_262/git/trees/ec8fb31c7e6b5da3d396819f1ffbd1c1f59d00cb"
+    },
+    {
+      "path": "app/src/main/java/com/example/flipunlock/hook/miuihome/SFDeviceGestureHook.kt",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "3897596560f51c860d205178c263925cdd3c59c8",
+      "size": 4305,
+      "url": "https://api.github.com/repos/237389749/FlipOuterUnlock_262/git/blobs/3897596560f51c860d205178c263925cdd3c59c8"
+    },
+    {
+      "path": "app/src/main/java/com/example/flipunlock/hook/system_server",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "c223759988b305277c0c5fc26febf86d4090a337",
+      "url": "https://api.github.com/repos/237389749/FlipOuterUnlock_262/git/trees/c223759988b305277c0c5fc26febf86d4090a337"
+    },
+    {
+      "path": "app/src/main/java/com/example/flipunlock/hook/system_server/AppRestriction.kt",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a93bd12c97b1b5f13b4f660fedb52c7a8891ece5",
+      "size": 1825,
+      "url": "https://api.github.com/repos/237389749/FlipOuterUnlock_262/git/blobs/a93bd12c97b1b5f13b4f660fedb52c7a8891ece5"
+    },
+    {
+      "path": "app/src/main/java/com/example/flipunlock/hook/system_server/AppWhitelist.kt",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "adf6e6cb0f0f180049c31777aab619e92ef0c57e",
+      "size": 7739,
+      "url": "https://api.github.com/repos/237389749/FlipOuterUnlock_262/git/blobs/adf6e6cb0f0f180049c31777aab619e92ef0c57e"
+    },
+    {
+      "path": "app/src/main/java/com/example/flipunlock/hook/system_server/CompatConfigHook.kt",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "1aaac2d59177802e5eab152dd018a692b0701543",
+      "size": 3648,
+      "url": "https://api.github.com/repos/237389749/FlipOuterUnlock_262/git/blobs/1aaac2d59177802e5eab152dd018a692b0701543"
+    },
+    {
+      "path": "app/src/main/java/com/example/flipunlock/hook/system_server/DisplayTopologyHook.kt",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "bdcfd3632c47b96848ee54eb9c8ddbbca82a8b5d",
+      "size": 9925,
+      "url": "https://api.github.com/repos/237389749/FlipOuterUnlock_262/git/blobs/bdcfd3632c47b96848ee54eb9c8ddbbca82a8b5d"
+    },
+    {
+      "path": "app/src/main/java/com/example/flipunlock/hook/system_server/Flip2CutoutLetterboxHook.kt",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "eea6fa1f91abf6400c1def90195c9ffdee888e47",
+      "size": 2638,
+      "url": "https://api.github.com/repos/237389749/FlipOuterUnlock_262/git/blobs/eea6fa1f91abf6400c1def90195c9ffdee888e47"
+    },
+    {
+      "path": "app/src/main/java/com/example/flipunlock/hook/system_server/LauncherRouteHook.kt",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d643cbf0300cfb1c14dc4be34a91e93feb718676",
+      "size": 3846,
+      "url": "https://api.github.com/repos/237389749/FlipOuterUnlock_262/git/blobs/d643cbf0300cfb1c14dc4be34a91e93feb718676"
+    },
+    {
+      "path": "app/src/main/java/com/example/flipunlock/hook/system_server/RotationFixHook.kt",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e5df689d20f76dcf62cc503756d3ed80ee28a1de",
+      "size": 3290,
+      "url": "https://api.github.com/repos/237389749/FlipOuterUnlock_262/git/blobs/e5df689d20f76dcf62cc503756d3ed80ee28a1de"
+    },
+    {
+      "path": "app/src/main/java/com/example/flipunlock/hook/systemui",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "b0120c4ebbb6136940fb081180bf3945c6e3555d",
+      "url": "https://api.github.com/repos/237389749/FlipOuterUnlock_262/git/trees/b0120c4ebbb6136940fb081180bf3945c6e3555d"
+    },
+    {
+      "path": "app/src/main/java/com/example/flipunlock/hook/systemui/SystemUiKeyguardFix.kt",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "c9c77391fe177c456861a38e9d924f6d99eb171d",
+      "size": 4453,
+      "url": "https://api.github.com/repos/237389749/FlipOuterUnlock_262/git/blobs/c9c77391fe177c456861a38e9d924f6d99eb171d"
+    },
+    {
+      "path": "app/src/main/java/com/example/flipunlock/hook/util",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "34c63e7f0bb3b831beb8fe103bdbcf90bc854434",
+      "url": "https://api.github.com/repos/237389749/FlipOuterUnlock_262/git/trees/34c63e7f0bb3b831beb8fe103bdbcf90bc854434"
+    },
+    {
+      "path": "app/src/main/java/com/example/flipunlock/hook/util/Config.kt",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "8cdbcee0716cb787202ed6a6f76f02ed6d146506",
+      "size": 9158,
+      "url": "https://api.github.com/repos/237389749/FlipOuterUnlock_262/git/blobs/8cdbcee0716cb787202ed6a6f76f02ed6d146506"
+    },
+    {
+      "path": "app/src/main/java/com/example/flipunlock/hook/util/DeviceGuard.kt",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "598f03d6ff73a396608241ab44ec272516e80297",
+      "size": 7856,
+      "url": "https://api.github.com/repos/237389749/FlipOuterUnlock_262/git/blobs/598f03d6ff73a396608241ab44ec272516e80297"
+    },
+    {
+      "path": "app/src/main/java/com/example/flipunlock/hook/util/Exclusions.kt",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e2e54df7ab3682069348b748d293f8401d0bcbb4",
+      "size": 1064,
+      "url": "https://api.github.com/repos/237389749/FlipOuterUnlock_262/git/blobs/e2e54df7ab3682069348b748d293f8401d0bcbb4"
+    },
+    {
+      "path": "app/src/main/java/com/example/flipunlock/hook/util/HookUtils.kt",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e372471a6bf8cbfc5189ce5525aa8b0ac455c7e7",
+      "size": 2565,
+      "url": "https://api.github.com/repos/237389749/FlipOuterUnlock_262/git/blobs/e372471a6bf8cbfc5189ce5525aa8b0ac455c7e7"
+    },
+    {
+      "path": "app/src/main/java/com/example/flipunlock/hook/util/ReflectUtils.kt",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d289dace9a0924c896ab1f0f413c5977b1aa4aff",
+      "size": 2507,
+      "url": "https://api.github.com/repos/237389749/FlipOuterUnlock_262/git/blobs/d289dace9a0924c896ab1f0f413c5977b1aa4aff"
+    },
+    {
+      "path": "app/src/main/java/com/example/flipunlock/hook/util/ScreenUtils.kt",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "6798f80ee8097a5320c1cc2d9f96fae1bd3f2aaf",
+      "size": 3198,
+      "url": "https://api.github.com/repos/237389749/FlipOuterUnlock_262/git/blobs/6798f80ee8097a5320c1cc2d9f96fae1bd3f2aaf"
+    },
+    {
+      "path": "app/src/main/res",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "de714552212d574a42496826ab5f56a8414f80ae",
+      "url": "https://api.github.com/repos/237389749/FlipOuterUnlock_262/git/trees/de714552212d574a42496826ab5f56a8414f80ae"
+    },
+    {
+      "path": "app/src/main/res/drawable",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "0effe97c6f82b1e0070ad5dc3f5db1ee5ae5b89e",
+      "url": "https://api.github.com/repos/237389749/FlipOuterUnlock_262/git/trees/0effe97c6f82b1e0070ad5dc3f5db1ee5ae5b89e"
+    },
+    {
+      "path": "app/src/main/res/drawable/ic_launcher_foreground.xml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e91d559b5be97e9e51ddd992da96f67c9443d4f3",
+      "size": 846,
+      "url": "https://api.github.com/repos/237389749/FlipOuterUnlock_262/git/blobs/e91d559b5be97e9e51ddd992da96f67c9443d4f3"
+    },
+    {
+      "path": "app/src/main/res/mipmap-anydpi-v26",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "d086d88cf60814e988e01ba93221586935f3e909",
+      "url": "https://api.github.com/repos/237389749/FlipOuterUnlock_262/git/trees/d086d88cf60814e988e01ba93221586935f3e909"
+    },
+    {
+      "path": "app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "5c84730caa7b72dfe85126020edffbd0e39e64fa",
+      "size": 341,
+      "url": "https://api.github.com/repos/237389749/FlipOuterUnlock_262/git/blobs/5c84730caa7b72dfe85126020edffbd0e39e64fa"
+    },
+    {
+      "path": "app/src/main/res/values-v31",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "154d6945a6deb010edd3329866cb605a91258006",
+      "url": "https://api.github.com/repos/237389749/FlipOuterUnlock_262/git/trees/154d6945a6deb010edd3329866cb605a91258006"
+    },
+    {
+      "path": "app/src/main/res/values-v31/ic_launcher_background.xml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "bbbb073a5966da9bf97744c03612dd43f2fe3f79",
+      "size": 147,
+      "url": "https://api.github.com/repos/237389749/FlipOuterUnlock_262/git/blobs/bbbb073a5966da9bf97744c03612dd43f2fe3f79"
+    },
+    {
+      "path": "app/src/main/res/values",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "bd30b5ee3ce262580554a0b9bf82f2240e182f52",
+      "url": "https://api.github.com/repos/237389749/FlipOuterUnlock_262/git/trees/bd30b5ee3ce262580554a0b9bf82f2240e182f52"
+    },
+    {
+      "path": "app/src/main/res/values/ic_launcher_background.xml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b5d074a446eb560064b3d4beba51e5838a330747",
+      "size": 121,
+      "url": "https://api.github.com/repos/237389749/FlipOuterUnlock_262/git/blobs/b5d074a446eb560064b3d4beba51e5838a330747"
+    },
+    {
+      "path": "app/src/main/res/values/strings.xml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "87c9d676fe461a1ae0f2bb2c66670cf2b5f7a055",
+      "size": 117,
+      "url": "https://api.github.com/repos/237389749/FlipOuterUnlock_262/git/blobs/87c9d676fe461a1ae0f2bb2c66670cf2b5f7a055"
+    },
+    {
+      "path": "app/src/main/resources",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "527f194f16a4d604348c174f61210ae9bccaf469",
+      "url": "https://api.github.com/repos/237389749/FlipOuterUnlock_262/git/trees/527f194f16a4d604348c174f61210ae9bccaf469"
+    },
+    {
+      "path": "app/src/main/resources/META-INF",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "f2fec6fc990188668674a12e5a0844d22bd3243b",
+      "url": "https://api.github.com/repos/237389749/FlipOuterUnlock_262/git/trees/f2fec6fc990188668674a12e5a0844d22bd3243b"
+    },
+    {
+      "path": "app/src/main/resources/META-INF/xposed",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "ce06f746890b8a21ee828a523006fb182696c701",
+      "url": "https://api.github.com/repos/237389749/FlipOuterUnlock_262/git/trees/ce06f746890b8a21ee828a523006fb182696c701"
+    },
+    {
+      "path": "app/src/main/resources/META-INF/xposed/java_init.list",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "480f5a744d75c678911520c4a82dc4128253b111",
+      "size": 28,
+      "url": "https://api.github.com/repos/237389749/FlipOuterUnlock_262/git/blobs/480f5a744d75c678911520c4a82dc4128253b111"
+    },
+    {
+      "path": "app/src/main/resources/META-INF/xposed/module.prop",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "69820f86f4020a50d9c371782c56cda62af156ca",
+      "size": 39,
+      "url": "https://api.github.com/repos/237389749/FlipOuterUnlock_262/git/blobs/69820f86f4020a50d9c371782c56cda62af156ca"
+    },
+    {
+      "path": "app/src/main/resources/META-INF/xposed/scope.list",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b3a454b12528e3b725d33c5d9ab37858d92a4f87",
+      "size": 139,
+      "url": "https://api.github.com/repos/237389749/FlipOuterUnlock_262/git/blobs/b3a454b12528e3b725d33c5d9ab37858d92a4f87"
+    },
+    {
+      "path": "build.gradle.kts",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ce201a5782a41b3fd3ec2eb231c19071aad151e4",
+      "size": 68,
+      "url": "https://api.github.com/repos/237389749/FlipOuterUnlock_262/git/blobs/ce201a5782a41b3fd3ec2eb231c19071aad151e4"
+    },
+    {
+      "path": "gradle.properties",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "eebae33c691f974db435440153824ab6e18e2ead",
+      "size": 243,
+      "url": "https://api.github.com/repos/237389749/FlipOuterUnlock_262/git/blobs/eebae33c691f974db435440153824ab6e18e2ead"
+    },
+    {
+      "path": "gradle",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "5ca7c6207ba630bcc61fcb06a5f834f591572549",
+      "url": "https://api.github.com/repos/237389749/FlipOuterUnlock_262/git/trees/5ca7c6207ba630bcc61fcb06a5f834f591572549"
+    },
+    {
+      "path": "gradle/libs.versions.toml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e350ce3527881dcee20199dddc1e9a55a7c742d7",
+      "size": 544,
+      "url": "https://api.github.com/repos/237389749/FlipOuterUnlock_262/git/blobs/e350ce3527881dcee20199dddc1e9a55a7c742d7"
+    },
+    {
+      "path": "gradle/wrapper",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "a2e016d850e75ce3d8f1b06fc0b8e801da2572a2",
+      "url": "https://api.github.com/repos/237389749/FlipOuterUnlock_262/git/trees/a2e016d850e75ce3d8f1b06fc0b8e801da2572a2"
+    },
+    {
+      "path": "gradle/wrapper/gradle-wrapper.jar",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e708b1c023ec8b20f512888fe07c5bd3ff77bb8f",
+      "size": 59203,
+      "url": "https://api.github.com/repos/237389749/FlipOuterUnlock_262/git/blobs/e708b1c023ec8b20f512888fe07c5bd3ff77bb8f"
+    },
+    {
+      "path": "gradle/wrapper/gradle-wrapper.properties",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "1a704683a00238cd4d05f55dd79bdc7614d90f4c",
+      "size": 252,
+      "url": "https://api.github.com/repos/237389749/FlipOuterUnlock_262/git/blobs/1a704683a00238cd4d05f55dd79bdc7614d90f4c"
+    },
+    {
+      "path": "gradlew",
+      "mode": "100755",
+      "type": "blob",
+      "sha": "4f906e0c811fc9e230eb44819f509cd0627f2600",
+      "size": 5766,
+      "url": "https://api.github.com/repos/237389749/FlipOuterUnlock_262/git/blobs/4f906e0c811fc9e230eb44819f509cd0627f2600"
+    },
+    {
+      "path": "gradlew.bat",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "107acd32c4e687021ef32db511e8a206129b88ec",
+      "size": 2674,
+      "url": "https://api.github.com/repos/237389749/FlipOuterUnlock_262/git/blobs/107acd32c4e687021ef32db511e8a206129b88ec"
+    },
+    {
+      "path": "settings.gradle.kts",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "6db64a2e9d5aaaf9616911160febf70e76654976",
+      "size": 682,
+      "url": "https://api.github.com/repos/237389749/FlipOuterUnlock_262/git/blobs/6db64a2e9d5aaaf9616911160febf70e76654976"
+    }
+  ],
+  "truncated": false
+}

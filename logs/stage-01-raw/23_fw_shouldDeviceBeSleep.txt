@@ -1,0 +1,3 @@
+shouldDeviceBeSleep
+
+[EXIT=0]
