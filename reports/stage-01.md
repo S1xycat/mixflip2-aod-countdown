@@ -583,9 +583,9 @@ fatal: unable to read config file '/root/.gitconfig'
 |---|---|
 | 仓库 | `mixflip2-aod-countdown`（**GitHub 上尚未创建**） |
 | 分支 | `main` |
-| 最新 Commit SHA | `N/A` — **未提交**（因无法推送，本地也暂未 commit） |
+| 最新 Commit SHA | `2ceb6fa0ca93c38a7c38fa6703863640251dd819`（本地提交成功） |
 | 本阶段新增文件 | 见下 |
-| 是否推送成功 | ❌ **否** |
+| 是否推送成功 | ❌ **否** — 认证缺失（详见 G.1） |
 
 ### 本地文件清单（待推送）
 
